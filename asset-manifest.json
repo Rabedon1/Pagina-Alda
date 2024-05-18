@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pagina-Alda/static/css/main.240139bb.css",
+    "main.js": "/Pagina-Alda/static/js/main.9a34ccf8.js",
+    "static/js/787.2374ce8c.chunk.js": "/Pagina-Alda/static/js/787.2374ce8c.chunk.js",
+    "static/media/webImage.jpg": "/Pagina-Alda/static/media/webImage.3917bf8c30f22f7e74fc.jpg",
+    "index.html": "/Pagina-Alda/index.html",
+    "main.240139bb.css.map": "/Pagina-Alda/static/css/main.240139bb.css.map",
+    "main.9a34ccf8.js.map": "/Pagina-Alda/static/js/main.9a34ccf8.js.map",
+    "787.2374ce8c.chunk.js.map": "/Pagina-Alda/static/js/787.2374ce8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240139bb.css",
+    "static/js/main.9a34ccf8.js"
+  ]
+}
